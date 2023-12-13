@@ -9,6 +9,7 @@ done
   - if you dye it yourself, make sure **you never use the pot in question for food afterwards**; fabric dye is not foodsafe and will likely leech into anything you cook in this pot afterwards
 - [purchased one-way film](https://www.amazon.com/dp/B07ZGCBZZT?psc=1)
 - [purchased LED strip for mask](https://www.amazon.com/KWMSTPLT-Individually-Addressable-Programmable-Non-Waterproof/dp/B09P8MH56K)
+- [purchased mp3 player module](https://www.amazon.com/gp/product/B0CF593SWY?psc=1) (which, misleading name aside, should just be an SD card slot & an audio jack)
 
 
 plan of action
@@ -20,6 +21,7 @@ plan of action
 - wii nunchuck in hand, connected to microcontroller
 - audio jack on microcontroller
 - SD card with hypnofiles on the serial mp3 player
+- 3d print case for electronics
 
 todo
 ==
@@ -29,6 +31,7 @@ todo
   - [spirals on visor](https://www.techwalla.com/articles/how-to-make-spirals-in-gimp)
   - [ESP32 and nunchuck](https://github.com/moefh/esp32-wii-nunchuk)
 - you'd better cite your sources young gamer
+- gotta fix the 3d printer first lolol
 
 explore
 ==
