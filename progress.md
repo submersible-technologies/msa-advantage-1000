@@ -9,7 +9,7 @@ done
   - if you dye it yourself, make sure **you never use the pot in question for food afterwards**; fabric dye is not foodsafe and will likely leech into anything you cook in this pot afterwards
 - [purchased one-way film](https://www.amazon.com/dp/B07ZGCBZZT?psc=1)
 - [purchased LED strip for mask](https://www.amazon.com/KWMSTPLT-Individually-Addressable-Programmable-Non-Waterproof/dp/B09P8MH56K)
-- [purchased mp3 player module](https://www.amazon.com/gp/product/B0CF593SWY?psc=1) (which, misleading name aside, should just be an SD card slot & an audio jack)
+- [purchased mp3 player module](https://www.amazon.com/gp/product/B0CF593SWY?psc=1) (which, misleading name aside, should just be an SD card slot & an audio jack + DAC)
 
 
 plan of action
