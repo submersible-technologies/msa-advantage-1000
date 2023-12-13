@@ -40,3 +40,5 @@ explore
 - it'd be very funny to have a shittly encoded [movie on the drone mask](https://www.instructables.com/Play-Video-With-ESP32/), and then to plug in speakers. will need to reencode the videos with FFMPEG ahead of time, in the appropriate resolution (13x7?). audio quality can still be ok
 - buy a nosecup? will help much with fogging allegedly
 - [Integrate a Pizeo buzzer!](https://esp32io.com/tutorials/esp32-piezo-buzzer) This will allow the drone to beep!
+- Host a webserver & AP on the esp32! This will let a dominant connect to the mask and remotely control it
+- Have some kind of display pointing back at the drone for spirals
