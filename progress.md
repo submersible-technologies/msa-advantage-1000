@@ -5,7 +5,7 @@ done
 - purchased MSA Advantage 1000 (used, ebay)
 - purchased outsert for MSA Advantage (used, ebay)
   - make sure to order matching outsert size for your mask!! (check the markings at the top of the mask's visor
-  - undyed is much cheaper premade ($20ish vs $60ish), but conceptually it's slightly cheaper to buy an undyed + fabric dye + a big pot from a thrift store (estimated $50). if shipping fees/tax kill it in your area, consider dying it yourself, but otherwise from an ecological perspective it probably makes more sense to buy the pre-dyed one
+  - undyed alone is much cheaper than premade ($20ish vs $60ish), but conceptually it's only slightly cheaper to buy an undyed + fabric dye + a big pot from a thrift store (estimated $50). if shipping fees/tax kill it in your area, consider dying it yourself, but otherwise from an ecological perspective it probably makes more sense to buy the pre-dyed one
   - if you dye it yourself, make sure **you never use the pot in question for food afterwards**; fabric dye is not foodsafe and will likely leech into anything you cook in this pot afterwards
 - [purchased one-way film](https://www.amazon.com/dp/B07ZGCBZZT?psc=1)
 - [purchased LED strip for mask](https://www.amazon.com/KWMSTPLT-Individually-Addressable-Programmable-Non-Waterproof/dp/B09P8MH56K)
