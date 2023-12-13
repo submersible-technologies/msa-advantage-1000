@@ -39,3 +39,4 @@ explore
 ==
 - it'd be very funny to have a shittly encoded [movie on the drone mask](https://www.instructables.com/Play-Video-With-ESP32/), and then to plug in speakers. will need to reencode the videos with FFMPEG ahead of time, in the appropriate resolution (13x7?). audio quality can still be ok
 - buy a nosecup? will help much with fogging allegedly
+- it'd be cool to have a speaker too, but that might be overloading the gpio
