@@ -32,6 +32,8 @@ todo
   - [ESP32 and nunchuck](https://github.com/moefh/esp32-wii-nunchuk)
 - you'd better cite your sources young gamer
 - gotta fix the 3d printer first lolol
+- when writing the code, function to convert an image -> 13x7 dots? maybe have checks to see if res is 13x7 already
+- confirm the actual resolution
 
 explore
 ==
