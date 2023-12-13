@@ -19,13 +19,18 @@ plan of action
 - microcontroller + battery on wristband
 - wii nunchuck in hand, connected to microcontroller
 - audio jack on microcontroller
+- SD card with hypnofiles on the serial mp3 player
 
 todo
 ==
-- buy a nosecup? will help much with fogging allegedly
-- sd card for easy addition of hypnofiles
 - we're gonna need to follow a collection of tutorials here
   - [RGB strip via ESP32](https://randomnerdtutorials.com/esp32-esp8266-rgb-led-strip-web-server/)
   - for hypnofiles, [part of this tutorial for ESP32 Audio player](https://esp32io.com/tutorials/esp32-audio), which should be most of it, but you'll have to figure *something* out for the volume
   - [spirals on visor](https://www.techwalla.com/articles/how-to-make-spirals-in-gimp)
   - [ESP32 and nunchuck](https://github.com/moefh/esp32-wii-nunchuk)
+- you'd better cite your sources young gamer
+
+explore
+==
+- it'd be very funny to have a shittly encoded [movie on the drone mask](https://www.instructables.com/Play-Video-With-ESP32/), and then to plug in speakers. will need to reencode the videos with FFMPEG ahead of time, in the appropriate resolution (13x7?). audio quality can still be ok
+- buy a nosecup? will help much with fogging allegedly
