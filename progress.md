@@ -26,14 +26,19 @@ plan of action
 todo
 ==
 - we're gonna need to follow a collection of tutorials here
-  - [RGB strip via ESP32](https://randomnerdtutorials.com/esp32-esp8266-rgb-led-strip-web-server/)
-  - for hypnofiles, [part of this tutorial for ESP32 Audio player](https://esp32io.com/tutorials/esp32-audio), which should be most of it, but you'll have to figure *something* out for the volume
+  - ~~[RGB strip via ESP32](https://randomnerdtutorials.com/esp32-esp8266-rgb-led-strip-web-server/)~~
+      - Not that tutorial, thats for non-addressable RGB
+      - Try this one https://www.electronicsforu.com/electronics-projects/diy-wireless-addressable-rgb-controller
+      - Or maybe https://esp32io.com/tutorials/esp32-ws2812b-led-strip
+      - [ACTUALLY TRY THIS ONE FIRST](https://www.programmingboss.com/2023/07/control-ws2812b-addressable-5050-RGB-LED-Strip-Using-ESP32-Adafruit-NeoPixel-library.html) allegedly this uses an adafruit library == easy for my inexperienced ass to follow
+  - for hypnofiles, [part of this tutorial for ESP32 Audio player](https://esp32io.com/tutorials/esp32-audio), which should be most of it, but you'll have to figure *something* out for the volume (and also why its not putting any sound out)
   - [spirals on visor](https://www.techwalla.com/articles/how-to-make-spirals-in-gimp)
   - [ESP32 and nunchuck](https://github.com/moefh/esp32-wii-nunchuk)
 - you'd better cite your sources young gamer
 - gotta fix the 3d printer first lolol
-- when writing the code, function to convert an image -> 13x7 dots? maybe have checks to see if res is 13x7 already
+- when writing the code, function to convert an image -> ~~13x7 dots? maybe have checks to see if res is 13x7 already~~ looks more like 
 - confirm the actual resolution
+- need to make a new strap- documentation is being written, just need to sew
 
 explore
 ==
